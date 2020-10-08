@@ -1,7 +1,5 @@
-**/.env.d
+**/.autoenv.d
+**/.autoenv
 
 node_modules
-.env
-**/.env.d
-**/.env
 
